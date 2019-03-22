@@ -9,46 +9,46 @@ Curso obligatorio de la carrera de Ingeniería Civil en Informática (UACh) y ma
 ***
 ## Abstract
 
-La asignatura de **Taller de Base de Datos** tiene como principal propósito que los estudiantes 
+La asignatura de **Taller de Base de Datos** tiene como principal propósito que los estudiantes integren técnicas de procesamiento de datos no estructurados con técnicas de _Machine Learning_, utilizando librerías de tratamiento automático del lenguaje, de visión artificial y _Machine Learning_ y describiendo las características principales de los algorítmos utilizadas por estas librerías.
 
 
 ***
 ## Contenidos
 
-- **Unidad 1:** Tutoriales de preprocesamiento de datos no estructurados
-	- Procesamiento de textos: Tokenización, Part-of-Speech Tagging, Named Entity Recognition, Chunking
-	- Procesamiento de textos: Words embedding
-	- Procesamiento de imágenes: Extracción de contornos y _background_
-	- Procesamiento de imágenes: Redes Neuronales convolucionales para la clasificación de imágenes
-
-- **Unidad 2:** Tutoriales de resolución de problemas de clasificación automática con datos
+- **Unidad 1:** Talleres de resolución de problemas de clasificación automática con SciKit-Learn
 	- Regresión Lineal
 	- Regresión Logística
-	- Protocolo de evaluación de modelos de clasificación
-	- k-Nearest Neighbors, Árbol de Decisión y otros algoritmos "clásicos" de Machine Learning
-	- Técnicas de _Ensemble Learning_  
+	- Protocolos de evaluación de modelos de clasificación
+	- Algoritmos "clásicos" de Machine Learning: k-Nearest Neighbors, Árbol de Decisión, etc.
+	- Técnicas de _Ensemble Learning_
 
-- **Unidad 3:** Tutoriales de visualización de datos
-	- Visualizar correlaciones
-	- Visualizar _Ranking_
-	- Visualizar distribuciones
-	- Visualizar cambios en el tiempo
-	- Visualizar datos espaciales
+- **Unidad 2:** Talleres de análisis de datos textuales con Python, Gensim y spaCy
+	- ¿Qué es el análisis de textos?: Tokenización, Part-of-Speech Tagging, Named Entity Recognition, Chunking (spaCy)
+	- Modelos de tópicos (gensim)
+	- Words embedding y _Word2Vec_ (gensim/spaCy)
+	- Clasificación automática de textos
+
+- **Unidad 3:** Talleres de análisis de imágenes con Python, OpenCV3 y PyTorch
+	- Transformaciones geométricas, detección de bordes y filtros
+	- Detectar partes del cuerpo (rostro, ojos)
+	- Detección de formas y objetos
+	- Introducción a Redes Neuronales convolucionales para la clasificación de imágenes
 
 ***
 ## Bibliografía 
 
-
-### Principal
-
-### Complementaria
+1. Srinivasa-Desikan B., (2018). _Natural Language Processing and Computational Linguistics: A practical guide to text analysis with Python, Gensim, spaCy and Keras_. Packt Publishing. 
+1. Garrido G., Joshi P., (2018). _OpenCV 3.x with Python by Example_ Packt Publishing.
 
 ***
 ## Software y librerías
 
+- Lenguaje: [Python3](https://docs.python.org/3/)
+- Ambiente: [IPython](https://ipython.org), [Jupyter](https://jupyter.org/)
+- Librerías: [Numpy](http://www.numpy.org/), [Pandas](https://pandas.pydata.org/), [Scipy](https://www.scipy.org/), [Scikit-learn](https://bokeh.pydata.org/en/latest/), [Matplotlib](https://matplotlib.org/), [bokeh](https://bokeh.pydata.org/en/latest/), [spaCy](https://spacy.io/), [gensim](https://radimrehurek.com/gensim/), [openCV](https://opencv.org/), 
+
 ***
 ## Otros recursos
-
-
+- Slack: https://escueladeinformatica.slack.com Canal #268
 - [Programa del curso](Programa_INFO268_2019.pdf)
 
