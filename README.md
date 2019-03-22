@@ -15,6 +15,8 @@ La asignatura de **Taller de Base de Datos** tiene como principal propósito que
 ***
 ## Contenidos
 
+[Instalación del entorno de trabajo](unidad0/Notebook0.ipynb)
+
 - **Unidad 1:** Talleres de resolución de problemas de clasificación automática con SciKit-Learn
 	- Regresión Lineal
 	- Regresión Logística
