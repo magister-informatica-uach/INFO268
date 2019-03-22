@@ -36,6 +36,7 @@ La asignatura de **Taller de Base de Datos** tiene como principal propósito que
 	- Detección de formas y objetos
 	- Introducción a Redes Neuronales convolucionales para la clasificación de imágenes
 
+
 ***
 ## Bibliografía 
 
