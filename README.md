@@ -44,7 +44,7 @@ La asignatura de **Taller de Base de Datos** tiene como principal propósito que
 
 - Lenguaje: [Python3](https://docs.python.org/3/)
 - Ambiente: [IPython](https://ipython.org), [Jupyter](https://jupyter.org/)
-- Librerías: [Numpy](http://www.numpy.org/), [Pandas](https://pandas.pydata.org/), [Scipy](https://www.scipy.org/), [Scikit-learn](https://bokeh.pydata.org/en/latest/), [Matplotlib](https://matplotlib.org/), [bokeh](https://bokeh.pydata.org/en/latest/), [spaCy](https://spacy.io/), [gensim](https://radimrehurek.com/gensim/), [openCV](https://opencv.org/), 
+- Librerías: [Numpy](http://www.numpy.org/), [Pandas](https://pandas.pydata.org/), [Scipy](https://www.scipy.org/), [Scikit-learn](https://scikit-learn.org/stable/), [Matplotlib](https://matplotlib.org/), [bokeh](https://bokeh.pydata.org/en/latest/), [spaCy](https://spacy.io/), [gensim](https://radimrehurek.com/gensim/), [openCV](https://opencv.org/), 
 
 ***
 ## Otros recursos
