@@ -15,11 +15,8 @@ La asignatura de **Taller de Base de Datos** tiene como principal propósito que
 ***
 ## Contenidos
 
-- **Unidad 0:** [Instalación del entorno de trabajo](unidad0/Notebook0.ipynb)
-
 - **Unidad 1:** Talleres de resolución de problemas de clasificación automática con SciKit-Learn
-	- Regresión Lineal
-	- Regresión Logística
+	- [Notebook 1](Unidad1/Notebook_1.ipynb): Introducción a Regresión Lineal y Regresión Logística
 	- Protocolos de evaluación de modelos de clasificación
 	- Algoritmos "clásicos" de Machine Learning: k-Nearest Neighbors, Árbol de Decisión, etc.
 	- Técnicas de _Ensemble Learning_
@@ -35,7 +32,6 @@ La asignatura de **Taller de Base de Datos** tiene como principal propósito que
 	- Detectar partes del cuerpo (rostro, ojos)
 	- Detección de formas y objetos
 	- Introducción a Redes Neuronales convolucionales para la clasificación de imágenes
-
 
 ***
 ## Bibliografía 
