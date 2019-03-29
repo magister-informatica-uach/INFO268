@@ -15,19 +15,19 @@ La asignatura de **Taller de Base de Datos** tiene como principal propósito que
 ***
 ## Contenidos
 
-- **Unidad 1:** Talleres de resolución de problemas de clasificación automática con SciKit-Learn
+- **Unidad 1:** Talleres de resolución de problemas de clasificación automática
 	- [Notebook 1](Unidad1/Notebook_1.ipynb): Introducción a Regresión Lineal y Regresión Logística
-	- Protocolos de evaluación de modelos de clasificación
+	- aprendizaje y evaluación de modelos de clasificación
 	- Algoritmos "clásicos" de Machine Learning: k-Nearest Neighbors, Árbol de Decisión, etc.
 	- Técnicas de _Ensemble Learning_
 
-- **Unidad 2:** Talleres de análisis de datos textuales con Python, Gensim y spaCy
+- **Unidad 2:** Talleres de análisis de datos textuales
 	- ¿Qué es el análisis de textos?: Tokenización, Part-of-Speech Tagging, Named Entity Recognition, Chunking (spaCy)
 	- Modelos de tópicos (gensim)
 	- Words embedding y _Word2Vec_ (gensim/spaCy)
 	- Clasificación automática de textos
 
-- **Unidad 3:** Talleres de análisis de imágenes con Python, OpenCV3 y PyTorch
+- **Unidad 3:** Talleres de análisis de imágenes
 	- Transformaciones geométricas, detección de bordes y filtros
 	- Detectar partes del cuerpo (rostro, ojos)
 	- Detección de formas y objetos
