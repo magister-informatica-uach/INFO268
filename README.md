@@ -16,8 +16,8 @@ La asignatura de **Taller de Base de Datos** tiene como principal propósito que
 ## Contenidos
 
 - **Unidad 1:** Talleres de resolución de problemas de clasificación automática
-	- [Notebook 1](Unidad1/Notebook_1.ipynb): Introducción a Regresión Lineal y Regresión Logística
-	- aprendizaje y evaluación de modelos de clasificación
+	- [Notebook 1](unidad1/Notebook_1.ipynb): Introducción a Regresión Lineal y Regresión Logística
+	- [Slides](https://docs.google.com/presentation/d/11O3ud6ywHuaro6OemhyeH07nuJtdc4ybMuTJicnMnm8/edit?usp=sharing) | [Notebook 2](unidad1/Notebook_2.ipynb): ¿Cómo estimar los paramétros de los modelos de Regresión Lineal y Logística
 	- Algoritmos "clásicos" de Machine Learning: k-Nearest Neighbors, Árbol de Decisión, etc.
 	- Técnicas de _Ensemble Learning_
 
