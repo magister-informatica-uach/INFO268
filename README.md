@@ -21,7 +21,10 @@ La asignatura de **Taller de Base de Datos** tiene como principal propósito que
 	- Introducción a algorítmos de árboles de decisión: [[Notebook 3-a]](unidad1/Notebook_3_a.ipynb), [[Notebook 3-b]](unidad1/Notebook_3_b.ipynb)
 	- Introducción a algoritmos de clustering (KMeans): [[Notebook 4]](unidad1/Notebook_4.ipynb)
 	- Técnicas de _Ensemble Learning_
-	- [[Datasets]](unidad1/datasets/presentacion.md)
+	- Otros datasets para experimentar:
+		- Sloan Digital Sky Survey DR14: Clasificación de estrellas, galaxias y cuásares [[dataset]](https://www.kaggle.com/lucidlenn/sloan-digital-sky-survey)
+		- FIFA 19 complete player dataset: Clasificación o Clustering de jugadores [[dataset]](https://www.kaggle.com/karangadiya/fifa19)
+		- Graduate admision: Predecir la admisión de estudiantes [[dataset]](https://www.kaggle.com/mohansacharya/graduate-admissions)
 
 - **Unidad 2:** Talleres de análisis de datos textuales
 	- ¿Qué es el análisis de textos?: Tokenización, Part-of-Speech Tagging, Named Entity Recognition, Chunking (spaCy)
