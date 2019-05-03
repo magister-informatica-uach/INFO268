@@ -27,10 +27,12 @@ La asignatura de **Taller de Base de Datos** tiene como principal propósito que
 		- Graduate admision: Predecir la admisión de estudiantes [[dataset]](https://www.kaggle.com/mohansacharya/graduate-admissions)
 
 - **Unidad 2:** Talleres de análisis de datos textuales
-	- ¿Qué es el análisis de textos?: Tokenización, Part-of-Speech Tagging, Named Entity Recognition, Chunking (spaCy)
-	- Modelos de tópicos (gensim)
-	- Words embedding y _Word2Vec_ (gensim/spaCy)
+	- Introducción al tratamiento automático del lenguaje humano, preprocesamiento, POS-Tagging, NER-Tagging, n-grams
+	- Modelos de tópicos
 	- Clasificación automática de textos
+	- Words embedding y _Word2Vec_
+	- Introducción a Deep Learning para textos
+	
 
 - **Unidad 3:** Talleres de análisis de imágenes
 	- Transformaciones geométricas, detección de bordes y filtros
