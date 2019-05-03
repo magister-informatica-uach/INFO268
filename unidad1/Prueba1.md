@@ -30,9 +30,11 @@ A | 94 | 16 | 10
 B | 21 | 113 | 16
 C | 4 | 4 | 92
 
-a- Definir los conceptos de Precisión y Recall
-b- Calcular la Precision y el Recall del modelo de clasificación
-c- ¿Por qué se considera que la métrica de Precisión mide el "ruido" generado por el modelo, y el Recall mide el "silencio" generado por el modelo?
+3.1 Definir los conceptos de Precisión y Recall
+
+3.2 Calcular la Precision y el Recall del modelo de clasificación
+
+3.3 ¿Por qué se considera que la métrica de Precisión mide el "ruido" generado por el modelo, y el Recall mide el "silencio" generado por el modelo?
 
 4. ¿Qué aprenden los algoritmos de Regresión Lineal, Regresión Logística, Árbol de decisión y K-Means? (_Responder indicando el o los conceptos aprendidos por cada uno de los algoritmos_)
 
@@ -48,14 +50,12 @@ c- ¿Por qué se considera que la métrica de Precisión mide el "ruido" generad
 
 ![función de perdida 2](funcion2.png)
 
-9. Supongamos que existe una sociedad distópica que observa en continua el comportamiento de las personas para evaluarlas con una nota. De esta nota depende la obtención de facilidades para poder sobrevivir (reducciones para utilizar transportes públicos, obtención de creditos, obtención de pasaporte, obtención de seguro, obtención de comida, etc.).
-- ¿Qué preguntas éticas podrían formular apoyando sus preguntas con conceptos técnicos?
+9. Supongamos que existe una sociedad distópica que observa en continua el comportamiento de las personas para evaluarlas con una nota. De esta nota depende la obtención de facilidades para poder sobrevivir (reducciones para utilizar transportes públicos, obtención de creditos, obtención de pasaporte, obtención de seguro, obtención de comida, etc.). ¿Qué preguntas éticas podrían formular apoyando sus preguntas con conceptos técnicos?
 
-10. Supongamos que existe una sociedad utópica la cual quiere utilizar técnicas de machine learning para mejorar la condición humana.
-- ¿Como ingeniero en informática, qué recomendaciones podrían formular a los dirigentes de esta sociedad para evitar que su visión se transforme en distópia?
+10. Supongamos que existe una sociedad utópica, la cual quiere utilizar técnicas de machine learning para mejorar la condición humana. ¿Como ingeniero en informática, qué recomendaciones podrían formular a los dirigentes de esta sociedad para evitar que su visión se transforme en distópia?
 
 
-##.2. Trabajo práctico (2 puntos)
+## 2. Trabajo práctico (2 puntos)
 
 Queremos aprender un modelo de clasificación binario capaz de predecir si va a llover mañana, a partir de datos observables el día anterior.
 
