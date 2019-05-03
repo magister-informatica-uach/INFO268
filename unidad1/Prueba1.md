@@ -24,8 +24,8 @@ Parte "Práctica":
 
 3. Supongamos que un modelo de clasificación permite obtener la matríz de confusión siguiente:
 
-| Predicción(A) | Predicción(B) | Predicción(C)
----------------|---------------|---------------
+X| Predicción(A) | Predicción(B) | Predicción(C)
+X|---------------|---------------|---------------
 A | 94 | 16 | 10
 B | 21 | 113 | 16
 C | 4 | 4 | 92
