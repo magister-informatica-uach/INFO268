@@ -27,9 +27,8 @@ La asignatura de **Taller de Base de Datos** tiene como principal propósito que
 		- Graduate admision: Predecir la admisión de estudiantes [[dataset]](https://www.kaggle.com/mohansacharya/graduate-admissions)
 
 - **Unidad 2:** Talleres de análisis de datos textuales
-	- Introducción al tratamiento automático del lenguaje humano, preprocesamiento, POS-Tagging, NER-Tagging, n-grams
+	- Introducción al tratamiento automático del lenguaje humano: tokenización, stop-words, lematización, pos-tagging, NER-tagging, vectorización de textos y clasificación
 	- Modelos de tópicos
-	- Clasificación automática de textos
 	- Words embedding y _Word2Vec_
 	- Introducción a Deep Learning para textos
 	
