@@ -28,7 +28,7 @@ La asignatura de **Taller de Base de Datos** tiene como principal propósito que
 
 - **Unidad 2:** Talleres de análisis de datos textuales
 	- Introducción al tratamiento automático del lenguaje humano: tokenización, stop-words, lematización, pos-tagging, NER-tagging, vectorización de textos y clasificación [[TP]](unidad2/Notebook1.ipynb)
-	- Modelos de tópicos
+	- Modelo de tópicos [[TP]](unidad2/Notebook2.ipynb)
 	- Words embedding y _Word2Vec_
 	- Introducción a Deep Learning para textos
 	
