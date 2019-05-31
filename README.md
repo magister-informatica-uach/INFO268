@@ -34,10 +34,8 @@ La asignatura de **Taller de Base de Datos** tiene como principal propósito que
 	
 
 - **Unidad 3:** Talleres de análisis de imágenes
-	- Transformaciones geométricas, detección de bordes y filtros
-	- Detectar partes del cuerpo (rostro, ojos)
-	- Detección de formas y objetos
-	- Introducción a Redes Neuronales convolucionales para la clasificación de imágenes
+	- Preprocesamientos básicos con OpenCV, convoluciones y filtros [[TP]](unidad3/Notebook1.ipynb)
+	- Introducción a Redes Neuronales convolucionales para la clasificación de imágenes [[TP]](unidad3/Notebook2.ipynb)
 
 ***
 ## Bibliografía 
