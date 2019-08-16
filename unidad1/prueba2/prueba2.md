@@ -18,7 +18,7 @@ Parte "Práctica":
 
 ## 1. Preguntas (3 puntos)
 
-1. Supongamos que un modelo de clasificación permite obtener la matríz de confusión siguiente. 
+1. Supongamos que un modelo de clasificación permite obtener la matríz de confusión siguiente. ¿Calcular la precisión y el recall por cada categoría?
 
 X | Predicción(A) | Predicción(B) | Predicción(C)
 ---------------|---------------|---------------|---------------
@@ -42,7 +42,7 @@ Suponemos que tenemos acceso a datos de sensores EMG (electromigrafía) que mide
 Tenemos a nuestra disposición un dataset que contiene observaciones de 3 tipos de gestos: piedra (0), hoja (1) y tijeras (2).
 Por cada observación, tenemos acceso a 8 sensores musculares y se recopila 8 mediciones de cada sensor justo antes de que el jugador revele su gesto. Es decir, tenemos 64 mediciones por cada observación.
 
-Descargar [dataset](https://github.com/magister-informatica-uach/INFO268/tree/master/unidad1/prueba2/) 
+Descargar [dataset](https://github.com/magister-informatica-uach/INFO268/tree/master/unidad1/prueba2/dataset-prueba2.csv) 
 
 
 Queremos aprender un modelo de clasificación capaz de predecir que gesto va a hacer el jugador. 
