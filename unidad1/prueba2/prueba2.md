@@ -49,6 +49,7 @@ Queremos aprender un modelo de clasificación capaz de predecir que gesto va a h
 
 1) Desarrollar un script python para entrenar y evaluar al menos 3 modelos de clasificación distintos, limpiando o transformando los datos si lo estiman necesario.
 2) ¿Qué precisión y recall obtiene?
-3) ¿Cómo se comparta los puntajas de precisión y recall según el tamaño del dataset de entrenamiento? Probar con varios tamaño de dataset de entrenamiento y graficar las curvas de Precicion o Recall según el tamaño del dataset de entrenamiento. ¿Qué observan? 
+3) ¿Cómo se comporta los puntajas de precisión y recall según el tamaño del dataset de entrenamiento? 
+Probar con varios tamaño de dataset de entrenamiento y graficar las curvas de Precicion o Recall según el tamaño del dataset de entrenamiento. ¿Qué observan? 
 
 
